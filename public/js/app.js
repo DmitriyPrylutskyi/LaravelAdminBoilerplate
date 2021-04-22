@@ -515,8 +515,8 @@ eval("// removed by extract-text-webpack-plugin//# sourceURL=[module]\n//# sourc
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/user/Documents/PetProjects/laravelAdmin/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/user/Documents/PetProjects/laravelAdmin/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/user/Documents/Work/laravel_noname/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/user/Documents/Work/laravel_noname/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
